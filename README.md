@@ -1,6 +1,6 @@
 Title:
 
-"Intelligent Tra-ic Sign Recognition System: Enhancing Road Safety Through Data Science and Analytics"
+"Intelligent Traffic Sign Recognition System: Enhancing Road Safety Through Data Science and Analytics"
 
 Dataset:
 
