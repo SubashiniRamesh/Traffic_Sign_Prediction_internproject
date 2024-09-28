@@ -51,4 +51,15 @@ Steps:
 7.Generate output.
 
 
-^.
+Output:
+
+
+![image](https://github.com/user-attachments/assets/9e141ef2-ac43-4cf1-8cc0-1d46bd49a7bd)
+
+
+This is the image in the Test folder and model's output is
+
+
+![image](https://github.com/user-attachments/assets/5e22557d-fd3d-4d9d-b921-f16f626f9de7)
+
+
